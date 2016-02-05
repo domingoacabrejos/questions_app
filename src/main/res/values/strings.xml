@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="previous_button">Prev</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="questions_dark">The Kings name in Dark Souls II is Vendrick</string>
+    <string name="questions_star">Darth Vador\'s real name is Ben</string>
+    <string name="questions_civil">MARVEL\'s first family is the Fantastic Four</string>
+
+</resources>
